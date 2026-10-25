@@ -18,7 +18,7 @@ I am developing projects that connect medical-equipment performance, healthcare 
 |---|---|---|
 | [MedSafe-R](https://github.com/VictoriaE-ai/MedSafe-R) | Medical Device Reliability & Safety Intelligence prototype connecting equipment, maintenance and safety data. | Corrected v1.3 dataset, chart report, reproducible analysis and internal predictive-baseline evaluation completed. Power BI update in progress; external validation planned. |
 | Medical-Device Reliability Analysis | An introductory analysis exploring device types, downtime, failure patterns and equipment age. | Initial simulated dataset and visuals created; repository presentation being prepared. |
-| VHA AI Readiness Assessment Framework | A framework for assessing readiness to adopt AI in health and social care. | Framework and supporting materials in development; practical validation remains future work. |
+| [VHA-AIRAF](https://github.com/VictoriaE-ai/VHA-AIRAF) | AI readiness assessment prototype for adult social care, combining 30 questions, evidence-based scoring criteria and critical gates. | Framework draft, Python calculator, fictional worked assessment and [live demonstration dashboard](https://vha-airaf-malo33l8wwaawrdvx5odvm.streamlit.app) available. Independent validation remains outstanding. |
 
 ## Featured Project: MedSafe-R
 
