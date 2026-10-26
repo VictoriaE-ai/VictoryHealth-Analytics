@@ -1,9 +1,11 @@
 # VictoryHealth Analytics
-### Clinical Engineering | Healthcare Data Analytics | AI for Patient Safety
+### Engineering safer, smarter, and more connected healthcare through data and responsible AI.
 
 Welcome to my portfolio. I’m **Victoria Ekweani**, with a background in Electrical and Electronics Engineering, an MSc in Data Analytics and Technologies completed with Distinction at the University of Bolton, and experience across engineering, IT infrastructure and healthcare.
 
-I am developing projects that connect medical-equipment performance, healthcare data and patient safety. My focus is on turning data into clear insights that support clinical engineering and healthcare improvement.
+Through **VictoryHealth Analytics**, I am developing evidence-informed projects that connect medical-equipment performance, healthcare data and patient safety. My focus is on translating data into clear, explainable insights that support clinical engineering, responsible AI adoption and healthcare improvement.
+
+I am also exploring how interoperability and emerging types of health information could contribute to safer and more connected services. These are development interests rather than claims of deployed clinical solutions.
 
 ## Areas of Focus
 
@@ -11,6 +13,9 @@ I am developing projects that connect medical-equipment performance, healthcare 
 - **Predictive maintenance:** exploring how data can help identify equipment needing attention.
 - **Healthcare data analytics:** communicating findings through analysis and dashboards.
 - **AI for patient safety:** developing explainable approaches with appropriate human oversight.
+- **Responsible AI and digital transformation:** evaluating organisational readiness for safe, accountable technology adoption.
+- **Healthcare interoperability and data integration:** exploring how clinical, medical-device and other health data can be brought together responsibly.
+- **Emerging healthcare data and technology:** investigating genomic data, social determinants of health (SDOH) and relevant emerging technologies, with attention to governance, data quality and practical benefit.
 
 ## Projects
 
@@ -38,6 +43,10 @@ The current corrected **v1.3 synthetic dataset** includes:
 Completed analysis identifies 253 overdue devices (21.1%) under documented PM-date assumptions and evaluates logistic regression and random forest baselines against an engineering heuristic. The report includes uncertainty estimates and reproducible code.
 
 [Explore the project and chart report](https://github.com/VictoriaE-ai/MedSafe-R#start-here). Next stages are to update Power BI, add model explanations and calibration checks, and seek clinical-engineering feedback and external validation.
+
+## Future Development Direction
+
+**VHA-MultiData Ready (proposed; not yet developed):** a potential evidence-informed assessment prototype for organisational readiness to integrate clinical, medical-device, genomic and social determinants of health data. Initial work would focus on reviewing existing approaches, identifying a defensible gap and defining safeguards before any software build. This is a concept, not a launched or validated tool.
 
 ## Methods and Tools
 
